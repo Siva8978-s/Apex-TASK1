@@ -27,7 +27,6 @@ project/
 
 ## Features
 
-- Mobile-friendly design
 - Smooth hover effects on navigation
 - Custom bullet points for lists
 - Shadow effects on images
